@@ -5,7 +5,7 @@ cityName;temperature(float with precision of 1)
 For example: London;14.5
 
 The challenge was meant to be done only in Java and with standard library only (No external dependencies).
-But since I was doing many things in Golang at the time, I decided to try it in Golang (standard library only) since it’s the language I’m using the most at the moment.
+I decided to try it in Golang (standard library only) since it’s the language I’m using the most at the moment.
 I took it as a learning opportunity, to try and get more knowledge on optimizing both writing and processing data in Golang.
 It was also the perfect opportunity to play and experiment an awful lot with Goroutines and channels and the different usage patterns of those.
 
